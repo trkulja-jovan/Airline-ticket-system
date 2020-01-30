@@ -1,0 +1,30 @@
+Rezervacije:
+Relacija: Jedinstveni broj karte -> 239
+Ime i prezime klijenta -> andreja simic
+Beograd - Tivat < - > Tivat - Beograd
+Tip putovanja -> Povratno putovanje 
+Datum polaska -> 30-12-2018
+Datum povratka -> 7-1-2019
+Klasa -> Biznis klasa
+Karta se rezervise za -> 3 putnika 
+Ukupna cena -> 468.0 $ 
+********************************** 
+Relacija: Jedinstveni broj karte -> 840
+Ime i prezime klijenta -> dimitrije djukic
+Beograd - London Heathrow < - > London Heathrow - Beograd
+Tip putovanja -> Povratno putovanje 
+Datum polaska -> 2-1-2019
+Datum povratka -> 2-3-2019
+Klasa -> Ekonomska klasa
+Karta se rezervise za -> 3 putnika 
+Ukupna cena -> 1592.25 $ 
+********************************** 
+Relacija: Jedinstveni broj karte -> 149
+Ime i prezime klijenta -> Milica Nedic Jovanovic
+Beograd - Moskva Sheremetyevo
+Tip putovanja -> Jednosmerno putovanje 
+Datum polaska -> 22-1-2019
+Klasa -> Biznis klasa
+Karta se rezervise za -> 1 putnika 
+Ukupna cena -> 843.6 $ 
+********************************** 

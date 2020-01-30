@@ -1,0 +1,10 @@
+JU501, Beograd - New York JFK, 7260
+JU701, Beograd - Paris CDG, 1427
+JU412, Beograd - Podgorica, 286
+JU780, Beograd - Tivat, 312
+JU500, Beograd - London Heathrow, 2123
+JU100, Beograd - Moskva Sheremetyevo, 1406
+JU250, Beograd - Berlin Tegel, 1252
+JU632, Beograd - Roma Fiumicino, 795
+JU465, Beograd - Milan Malpensa, 1063
+JU341, Beograd - Atina, 683
